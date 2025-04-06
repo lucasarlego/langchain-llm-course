@@ -1,0 +1,7 @@
+# Virtual Machine
+venv/
+.venv
+./venv/
+
+# Environment File
+.env
